@@ -8,3 +8,4 @@ __pycache__/
 *.so
 .coverage
 .pytest_cache/
+google_credentials.json
